@@ -1,0 +1,73 @@
+{
+  "project_info": {
+    "project_number": "642946688143",
+    "firebase_url": "https://myyellowbus-1524671256422.firebaseio.com",
+    "project_id": "myyellowbus-1524671256422",
+    "storage_bucket": "myyellowbus-1524671256422.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642946688143:android:e9e11d9f75dae1e7",
+        "android_client_info": {
+          "package_name": "com.bala.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642946688143-vs9npjktgrm2vva0rongbkri7ecla2uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANuB33xsLLQClJ6bYfNnUC00jJkxsnffo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:642946688143:android:7326b8d17ecb2c04",
+        "android_client_info": {
+          "package_name": "com.bala.sample"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "642946688143-vs9npjktgrm2vva0rongbkri7ecla2uh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyANuB33xsLLQClJ6bYfNnUC00jJkxsnffo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
